@@ -6,7 +6,7 @@
     tools:context="com.example.mdd23.udacityband01singlescreen.MainActivity">
 
     <ImageView
-        android:src="@drawable/Helios3"
+        android:src="@drawable/rover"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
